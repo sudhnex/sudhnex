@@ -50,9 +50,8 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 ### 🐧 Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,postman,githubactions,terraform" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,githubactions,terraform,ansible,kubernetes,prometheus,grafana,nginx" alt="DevOps Tools"/>
 </p>
-
 ---
 
 ## 📚 Currently Learning
