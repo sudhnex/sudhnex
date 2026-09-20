@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sudhanshu Kumar
+# 👋 Hi, I'm Sudhanshu 
 
 ### ☁️ Cloud & DevOps Enthusiast | B.Tech CSE Student
 
